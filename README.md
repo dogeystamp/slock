@@ -7,6 +7,8 @@ control-clear
 
 quickcancel
 
+failure-command
+
 ## Installation
 Clone the repo.
 
